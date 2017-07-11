@@ -1,7 +1,7 @@
 # How to run Hello Vue / Comment lancer ce Hello Vue #
 
-- [International](#english)
-- [Français](#francais)
+- [International](#international)
+- [Français](#français)
 
 
 
