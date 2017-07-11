@@ -1,0 +1,12 @@
+{
+	"production": true,
+	"httpPort": 7777,
+	"languageCode": "en-us",
+	"variation": "common.json",
+	"controller": "common.js",
+	"view": "layout.htm",
+	"statics": "statics.en-us.json",
+	"routes": "routes.en-us.json",
+	"_robots": "index, follow",
+	"_min": true
+}

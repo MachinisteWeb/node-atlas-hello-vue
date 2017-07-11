@@ -1,0 +1,16 @@
+{
+	"stylus": {
+		"files": "stylus.json",
+		"autoprefix": true
+	},
+	"httpPort": 7777,
+	"languageCode": "en-us",
+	"variation": "common.json",
+	"controller": "common.js",
+	"view": "layout.htm",
+	"bundles": "bundles.json",
+	"statics": "statics.en-us.json",
+	"routes": "routes.en-us.json",
+	"_robots": "noindex, nofollow",
+	"_min": false
+}

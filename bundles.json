@@ -1,0 +1,18 @@
+{
+	"javascripts": {
+		"javascripts/framework.{version}.min.js": [
+			"../node_modules/socket.io-client/dist/socket.io.min.js",
+			"node-atlas/socket.io.js",
+			"../node_modules/systemjs/dist/system.js",
+			"../node_modules/vue/dist/vue.min.js",
+			"../node_modules/vue-router/dist/vue-router.min.js",
+			"javascripts/boot.js"
+		],
+		"javascripts/common.{version}.min.js": ["javascripts/common.js"]
+	},
+	"stylesheets": {
+		"stylesheets/common.{version}.min.css": [
+			"stylesheets/common.css"
+		]
+	}
+}

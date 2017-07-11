@@ -1,0 +1,10 @@
+<div class="projects">
+	<div class="projects--content">
+		<h1>{{ specific.title }}</h1>
+		<div v-html="specific.content"></div>
+		<ul>
+			<li v-for="project in specific.projects" v-html="project"></li>
+		</ul>
+		<p><em>{{ me.description }}</em></p>
+	</div>
+</div>
