@@ -9,7 +9,7 @@
 
 ## International ##
 
-Hello Vue is a template to set up quickly a NodeAtlas base project using Vue as SSR template engine and MVVM client reactivity and router.
+Hello Vue is a template to set up quickly a [NodeAtlas](https://node-atlas.js.org/english/) base project using Vue as SSR template engine and MVVM client reactivity and router.
 
 To try it you must:
 
@@ -17,7 +17,7 @@ To try it you must:
 
 or
 
-- install it from NodeAtlas CLI with `node-atlas --create hello-vue`
+- install it from [NodeAtlas](https://node-atlas.js.org/english/) CLI with `node-atlas --create hello-vue`
 
 then
 
@@ -67,7 +67,7 @@ node-atlas --browse --webconfig webconfig.production.en-us.json
 
 ## Français ##
 
-Hello Vue est un template de démarrage pour créer une base de projet NodeAtlas en utilisant Vue comme moteur de rendu côté serveur et de la réactivité et du routage MVVM côté client.
+Hello Vue est un template de démarrage pour créer une base de projet [NodeAtlas](https://node-atlas.js.org/) en utilisant Vue comme moteur de rendu côté serveur et de la réactivité et du routage MVVM côté client.
 
 Pour l'essayer il faut :
 
@@ -75,7 +75,7 @@ Pour l'essayer il faut :
 
 or
 
-- l'installer depuis la CLI NodeAtlas avec la commande `node-atlas --create hello-vue`
+- l'installer depuis la CLI [NodeAtlas](https://node-atlas.js.org/) avec la commande `node-atlas --create hello-vue`
 
 puis
 
