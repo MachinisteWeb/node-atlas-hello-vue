@@ -127,6 +127,7 @@ a:hover,
 }
 .fade-in-out-leave-active,
 .fade-in-out-enter-active {
+  -webkit-transition: opacity 2s, -webkit-transform 2s;
   transition: opacity 2s, -webkit-transform 2s;
   transition: opacity 2s, transform 2s;
   transition: opacity 2s, transform 2s, -webkit-transform 2s;
